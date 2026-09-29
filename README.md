@@ -1,4 +1,4 @@
-👋 Hi, I'm XYZ
+👋 Hi, I'm Arya Kallatt.
 B.Voc Graduate | Software Developer | Technology Enthusiast
 
 Welcome to my GitHub profile! I'm a B.Voc graduate specializing in Software Development & Information Technology, with 2+ years of experience in software development, application support, and technical problem-solving.
