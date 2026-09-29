@@ -1,5 +1,5 @@
 /* =========================================================
-   XYZ PORTFOLIO
+   Arya Kallatt PORTFOLIO
    JavaScript
    ========================================================= */
 
@@ -276,6 +276,6 @@ console.log(
 );
 
 console.log(
-    "%cWelcome to XYZ's portfolio.",
+    "%cWelcome to Arya Kallatt's portfolio.",
     "color:#ccd6f6;font-size:13px;"
 );
